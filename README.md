@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hello there 👋 from Martin!
 
-<!--
-**martinschne/martinschne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer based in 🇩🇪 **Düsseldorf**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working: on
+- 🌱 I’m currently learning: Python
+- 💬 I speak: EN, SV, DE, CZ, SK y un poco ES
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun fact
+
+I am using GNU/Linux not just Linux.
+
+## 📫 How to reach me 
+
+Open the window and scream my name, when I am nearby I will respond.
+
+In case the above mentioned didn't work: [`linkedin`](https://www.linkedin.com/in/martin-schneider-144525309/)
+
+_________________________________________________________________________________________
+What can I do for you? - Was kann ich für Sie tun?
+
+
+
