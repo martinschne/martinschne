@@ -22,8 +22,6 @@ I am using GNU/Linux not just Linux.
 
 Open the window and scream my name, when I am nearby I will respond.
 
-In case the above mentioned didn't work: [`LinkedIn`](https://www.linkedin.com/in/martin-schneider-144525309/)
-
 _________________________________________________________________________________________
 What can I do for you? - Was kann ich für Sie tun?
 
