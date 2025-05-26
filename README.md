@@ -21,7 +21,7 @@ I am using GNU/Linux not just Linux.
 
 ## 📫 How to reach me 
 
-Open the window and scream my name, when I am nearby I will respond.
+martin (dot) schne [at] protonmail (dot) com
 
 _________________________________________________________________________________________
 What can I do for you? - Was kann ich für Sie tun?
