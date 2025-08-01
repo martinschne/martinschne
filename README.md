@@ -15,7 +15,7 @@ Software Developer based in 🇩🇪 **Düsseldorf**
 
 ## ⚡ Fun fact
 
-If there is Essen, there should be also Trinken, no?
+If there is Essen, there should be also Trinken, nicht Wahr?
 
 _________________________________________________________________________________________
 What can I do for you? - Was kann ich für Sie tun?
