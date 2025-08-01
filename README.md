@@ -15,7 +15,7 @@ Software Developer based in 🇩🇪 **Düsseldorf**
 
 ## ⚡ My favorite phrases
 
-If there is Essen, there should be also Trinken, oder?
+Wenn es Essen gibt, sollte es auch Trinken geben, oder?
 
 La verdad duele mucho. Pero ya tengo inmunidad.
 
