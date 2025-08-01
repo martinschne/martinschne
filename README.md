@@ -2,9 +2,7 @@
 
 Software Developer based in 🇩🇪 **Düsseldorf**
 
-- 🔭 My work during Masterschool studies:
-
-  Small utilities solving problems for students:
+- 🔭 Here are some small problem solving utilities:
 
   * Zoom Link Opener
     * Chrome extension starting Masterschool's video conferences in native Zoom application
@@ -17,11 +15,7 @@ Software Developer based in 🇩🇪 **Düsseldorf**
 
 ## ⚡ Fun fact
 
-I am using GNU/Linux not just Linux.
-
-## 📫 How to reach me 
-
-martin (dot) schne [at] protonmail (dot) com
+If there is Essen, there should be also Trinken, no?
 
 _________________________________________________________________________________________
 What can I do for you? - Was kann ich für Sie tun?
